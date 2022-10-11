@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "162101656047",
+    "project_id": "dash-3-2b6b5",
+    "storage_bucket": "dash-3-2b6b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162101656047:android:89e1d137008ff4f1e29e1a",
+        "android_client_info": {
+          "package_name": "com.exo.dash3.dash3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162101656047-ncm36hhglkiipm2ns3tbdtvncf1md70v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3zKPODc2CrZ--15bVn7vgonordnHXMq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162101656047-ncm36hhglkiipm2ns3tbdtvncf1md70v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "162101656047-qsf5oengmb2m5cjvc3q6427m6c7sfslb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.exo.dash3.dash3"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
